@@ -1,5 +1,5 @@
 {
   "/nnrf-nfm/v1/*": "/$1",
-  "/nnrf-nfm/v1/nf-instances/*": "/nf-instances/$1"
-  "/nnrf-nfm/v1/nf-instances/*": "/nf-instance/$1"
+  "/nnrf-nfm/v1/nf-instances/*": "/nf-instances/$1",
+  "/nnrf-nfm/v1/nf-instance/*": "/nf-instance/$1"
 }
